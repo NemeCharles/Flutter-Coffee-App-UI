@@ -2,9 +2,9 @@
 
 A new Flutter project.
 
-- [Home Screen](images/home_screen.jpg)
+ ![Home Screen](images/home_screen.jpg)
 
-- [purchase Screen](images/purchase_screen.jpg)
+ ![purchase Screen](images/purchase_screen.jpg)
 
 
 ## Getting Started
